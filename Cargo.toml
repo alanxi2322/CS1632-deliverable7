@@ -1,0 +1,7 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["Lun Xi <lux8@pitt.edu>"]
+
+[dependencies]
+rand = { git = "https://github.com/rust-lang-nursery/rand" }
